@@ -1,0 +1,19 @@
+Start testing: Oct 25 21:24 IST
+----------------------------------------------------------
+1/1 Testing: bank_tests
+1/1 Test: bank_tests
+Command: "/home/madhur/Documents/FULL_STACK_COURSE/BankCoreLite/build/bank_tests"
+Directory: /home/madhur/Documents/FULL_STACK_COURSE/BankCoreLite/build
+"bank_tests" start time: Oct 25 21:24 IST
+Output:
+----------------------------------------------------------
+All BankCore Lite tests passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bank_tests" end time: Oct 25 21:24 IST
+"bank_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 25 21:24 IST

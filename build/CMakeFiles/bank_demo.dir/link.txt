@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/bank_demo.dir/link.d CMakeFiles/bank_demo.dir/src/main.cpp.o -o bank_demo  libbankcore.a

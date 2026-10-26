@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbankcore.a CMakeFiles/bankcore.dir/src/Bank.cpp.o CMakeFiles/bankcore.dir/src/ThreadPool.cpp.o
+/usr/bin/ranlib libbankcore.a
